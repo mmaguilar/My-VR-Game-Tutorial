@@ -3,6 +3,8 @@
 
 Set up and create a Unity VR game with hand presence. This will be an introduction to the setup for our **Virtual Reality PC Builder**, which requires virtual user hands to interact with different elements in the game. 
 
+<img src="https://github.com/mmaguilar/My-VR-Game-Tutorial/blob/main/READMEImages/Screenshot%202023-04-30%20220048.png">
+
 The VR game needs to: 
 * Connect to the Unity scenes/project.
 * Connect the controller functions to the user hands. 
