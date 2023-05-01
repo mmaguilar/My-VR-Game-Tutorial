@@ -89,11 +89,11 @@ Drag each prefab to its corresponding object in the scene.
   
 Now, you should see the hand models following the movement of hand presence.
 
-## Moving Forward to Modifications, Input, Continous Movement, and Interactables.
+## Moving Forward to Modifications, Input, Continuous Movement, and Interactables.
 
 Having setup VR with Unity, we have the foundations for our project set up. Moving forward, it is important to consider the additional changes we should include in our project set up to allow users to use a wider variety of reality technologies. This may require installing **Open XR** rather than just installing plugins and packages for **Oculus**. 
 
-With our hand presence set up, we can move on to user intput and hand animation. Then, our project should focus on using this updated hand presence to interact with interactables in different ways. Once we have these methods down, we can start working on the detailed design of the hardware interactables and how they interact with our hands and eachother. 
+With our hand presence set up, we can move on to user intput and hand animation. Then, our project should focus on using this updated hand presence to interact with interactables in different ways. Once we have these methods down, we can start working on player movement and the detailed design of the hardware interactables. 
 
 Good luck. 
 
