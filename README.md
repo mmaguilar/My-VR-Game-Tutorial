@@ -25,6 +25,8 @@ After downloading, go to the **Installs** option on the left sidebar.
      * Android Build Support 
         * Open JDK 
         * Android SDK & NDK Tools
+        
+<img src="https://github.com/mmaguilar/My-VR-Game-Tutorial/blob/main/READMEImages/Screenshot%202023-04-30%20182159.png" width="500" height="300"> <img src="https://github.com/mmaguilar/My-VR-Game-Tutorial/blob/main/READMEImages/Screenshot%202023-04-30%20182146.png" width="500" height="300">
 
 ## Setting Up a Unity Project
 Go to **Projects** on the left sidebar and click on `New Project`.
@@ -77,7 +79,9 @@ In this folder, we have presets we can use for the hand XR Controllers.
 Go back to the hand objects and select the settings icon on the **XR Controller (Action-based)** component and select `XR Default Left/Right Controller` for each of the corresponding objects. 
 
 Finally, select `XR Origin` in the scene and add a new **Input Action Manager** component. 
-Select the `XRI Default Input Actions` in the `Starter Assets` folder and drag it in the `Action Asset List` of the **XR Origin** controller. 
+Select the `XRI Default Input Actions` in the `Starter Assets` folder and drag it in the `Action Asset List` of the **XR Origin** controller.
+
+<img src="https://github.com/mmaguilar/My-VR-Game-Tutorial/blob/main/READMEImages/Screenshot%202023-04-30%20185325.png" width="450" height="250">
   
 #### Visualizing User Hands 
 To visualize the hand presence using a nice hand model, download the hand model from Oculus: https://drive.google.com/file/d/10b39IekUdpBHlcTslZ-BlNRyH5uqPUe1/view?pli=1 
